@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/testConfig.iml" filepath="$PROJECT_DIR$/.idea/testConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testGPinit/.idea/testGPinit.iml" filepath="$PROJECT_DIR$/../testGPinit/.idea/testGPinit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testGitIP/.idea/testGetIP.iml" filepath="$PROJECT_DIR$/../testGitIP/.idea/testGetIP.iml" />
+    </modules>
+  </component>
+</project>
